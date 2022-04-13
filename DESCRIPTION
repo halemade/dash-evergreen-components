@@ -1,0 +1,13 @@
+Package: evergreen
+Title: wrapper for Evergreen react components
+Version: 0.0.1
+Description: wrapper for Evergreen react components
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/halemade/evergreen
+BugReports: https://github.com/halemade/evergreen/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

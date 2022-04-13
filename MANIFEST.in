@@ -1,0 +1,11 @@
+include evergreen/evergreen.min.js
+include evergreen/evergreen.min.js.map
+include evergreen/async-*.js
+include evergreen/async-*.js.map
+include evergreen/*-shared.js
+include evergreen/*-shared.js.map
+include evergreen/metadata.json
+include evergreen/package-info.json
+include README.md
+include LICENSE
+include package.json
